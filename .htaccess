@@ -1,13 +1,5 @@
 RewriteEngine On
 
-# Redirect www to non-www
-RewriteCond %{HTTP_HOST} ^www\.tunuapartments\.com$ [NC]
-RewriteRule ^(.*)$ https://tunuapartments.com/$1 [R=301,L]
-
-# Force HTTPS
-RewriteCond %{HTTPS} off
-RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
-
 # Remove trailing slash
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.+)/$ /$1 [R=301,L]
