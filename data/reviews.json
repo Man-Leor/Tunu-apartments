@@ -1,0 +1,62 @@
+[
+    {
+        "id": "rev_001",
+        "guest_name": "Sarah Mitchell",
+        "guest_image": "https:\/\/images.unsplash.com\/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face",
+        "country": "United Kingdom",
+        "rating": 5,
+        "text": "Absolutely stunning apartment! The location was perfect, right on Kendwa Beach. The staff went above and beyond to make our stay special. Will definitely be coming back.",
+        "date": "2026-03-15",
+        "verified": true
+    },
+    {
+        "id": "rev_002",
+        "guest_name": "Marco Rossi",
+        "guest_image": "https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+        "country": "Italy",
+        "rating": 5,
+        "text": "The Nungwi Luxury Suite exceeded all expectations. Spotlessly clean, beautifully furnished, and the rooftop terrace was magical at sunset. Already planning our next visit.",
+        "date": "2026-02-22",
+        "verified": true
+    },
+    {
+        "id": "rev_003",
+        "guest_name": "Emily Chen",
+        "guest_image": "https:\/\/images.unsplash.com\/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+        "country": "Singapore",
+        "rating": 5,
+        "text": "Tunu Apartments made our Zanzibar honeymoon unforgettable. The private beach access, the attention to detail, the warm hospitality... everything was perfect. Highly recommend!",
+        "date": "2026-01-10",
+        "verified": true
+    },
+    {
+        "id": "rev_004",
+        "guest_name": "James Okonkwo",
+        "guest_image": "https:\/\/images.unsplash.com\/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+        "country": "Nigeria",
+        "rating": 4,
+        "text": "Great apartments with excellent amenities. The WiFi was reliable, the AC worked perfectly, and the location was convenient. Would recommend for business travelers too.",
+        "date": "2025-12-05",
+        "verified": true
+    },
+    {
+        "id": "rev_005",
+        "guest_name": "Anna Schmidt",
+        "guest_image": "https:\/\/images.unsplash.com\/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop&crop=face",
+        "country": "Germany",
+        "rating": 5,
+        "text": "I travel extensively and Tunu Apartments ranks among the best accommodations I have ever experienced. The booking process was seamless and the apartment was immaculate.",
+        "date": "2025-11-18",
+        "verified": true
+    },
+    {
+        "id": "rev_006",
+        "guest_name": "David Kim",
+        "guest_image": "https:\/\/images.unsplash.com\/photo-1500048993953-d23a436266cf?w=100&h=100&fit=crop&crop=face",
+        "country": "South Korea",
+        "rating": 5,
+        "text": "Incredible value for money. The apartment was larger than expected, beautifully decorated, and had everything we needed. The beachfront location was the cherry on top.",
+        "date": "2025-10-30",
+        "verified": true
+    }
+]

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /includes/
+Disallow: /data/
+
+Sitemap: https://tunuapartments.com/sitemap.xml
+
+# Crawl-delay: 10

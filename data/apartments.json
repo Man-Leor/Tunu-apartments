@@ -1,0 +1,177 @@
+[
+    {
+        "id": "apt_001",
+        "name": "Chukwani Garden Studio",
+        "slug": "chukwani-garden-studio",
+        "location": "Chukwani",
+        "description": "A serene garden studio in the heart of Chukwani. Surrounded by tropical greenery, this studio features a king-size bed, fully equipped kitchen, and a private veranda. Perfect for couples seeking peace and privacy near Zanzibar City.",
+        "price_per_night": 85,
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "max_guests": 2,
+        "amenities": [
+            "WiFi",
+            "Air Conditioning",
+            "Kitchen",
+            "Parking",
+            "Generator Backup",
+            "Hot Water",
+            "Garden View"
+        ],
+        "images": [
+            "https:\/\/images.unsplash.com\/photo-1564013799919-ab600027ffc6?w=800",
+            "https:\/\/images.unsplash.com\/photo-1560448204-e02f11c3d0e2?w=800"
+        ],
+        "featured": true,
+        "coordinates": [
+            -6.25,
+            39.2333
+        ]
+    },
+    {
+        "id": "apt_002",
+        "name": "Mbweni Beach Suite",
+        "slug": "mbweni-beach-suite",
+        "location": "Mbweni",
+        "description": "Spacious suite near Mbweni beach with ocean views. Walking distance to local restaurants and the Mbweni Ruins. Features an open-plan living area, modern furnishings, and a terrace with Indian Ocean views.",
+        "price_per_night": 120,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "max_guests": 4,
+        "amenities": [
+            "WiFi",
+            "Air Conditioning",
+            "Kitchen",
+            "Parking",
+            "Generator Backup",
+            "Hot Water",
+            "Ocean View"
+        ],
+        "images": [
+            "https:\/\/images.unsplash.com\/photo-1582268611958-ebfd161ef9cf?w=800",
+            "https:\/\/images.unsplash.com\/photo-1560185007-cde436f6a4d0?w=800"
+        ],
+        "featured": true,
+        "coordinates": [
+            -6.2333,
+            39.2167
+        ]
+    },
+    {
+        "id": "apt_003",
+        "name": "Paje Ocean Villa",
+        "slug": "paje-ocean-villa",
+        "location": "Paje",
+        "description": "Beautiful three-bedroom villa overlooking the turquoise waters of Paje. Ideal for families or groups. Includes a private pool, outdoor lounge, and direct beach access. The perfect base for kite surfing adventures on Zanzibar's southeast coast.",
+        "price_per_night": 250,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "max_guests": 6,
+        "amenities": [
+            "WiFi",
+            "Air Conditioning",
+            "Kitchen",
+            "Parking",
+            "Generator Backup",
+            "Private Pool",
+            "Beach Access"
+        ],
+        "images": [
+            "https:\/\/images.unsplash.com\/photo-1580587771525-78b9dba3b914?w=800",
+            "https:\/\/images.unsplash.com\/photo-1600596542815-ffad4c1539a9?w=800"
+        ],
+        "featured": true,
+        "coordinates": [
+            -6.4333,
+            39.55
+        ]
+    },
+    {
+        "id": "apt_004",
+        "name": "Kiembe Samaki Residence",
+        "slug": "kiembe-samaki-residence",
+        "location": "Kiembe Samaki",
+        "description": "Modern family residence in the peaceful Kiembe Samaki neighborhood. Features three bedrooms, a spacious living area, and a rooftop terrace. Close to local markets and a short drive to Zanzibar City center.",
+        "price_per_night": 130,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "max_guests": 6,
+        "amenities": [
+            "WiFi",
+            "Air Conditioning",
+            "Kitchen",
+            "Parking",
+            "Generator Backup",
+            "Rooftop Terrace",
+            "Hot Water"
+        ],
+        "images": [
+            "\/assets\/images\/gallery-3.jpg",
+            "\/assets\/images\/gallery-2.jpg"
+        ],
+        "featured": false,
+        "coordinates": [
+            -6.2,
+            39.2667
+        ]
+    },
+    {
+        "id": "apt_005",
+        "name": "Michenzani City Apartment",
+        "slug": "michenzani-city-apartment",
+        "location": "Michenzani",
+        "description": "Conveniently located two-bedroom apartment in Michenzani, close to shops, restaurants, and public transport. Modern interiors with all amenities. Ideal for business travelers or families exploring Zanzibar City.",
+        "price_per_night": 90,
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "max_guests": 4,
+        "amenities": [
+            "WiFi",
+            "Air Conditioning",
+            "Kitchen",
+            "Parking",
+            "Generator Backup",
+            "Hot Water",
+            "City View"
+        ],
+        "images": [
+            "https:\/\/images.unsplash.com\/photo-1600573472550-8090b5e0745e?w=800",
+            "https:\/\/images.unsplash.com\/photo-1560448204-e02f11c3d0e2?w=800"
+        ],
+        "featured": false,
+        "coordinates": [
+            -6.1667,
+            39.2
+        ]
+    },
+    {
+        "id": "apt_006",
+        "name": "Paje Beachfront Penthouse",
+        "slug": "paje-beachfront-penthouse",
+        "location": "Paje",
+        "description": "Exclusive penthouse apartment with panoramic Indian Ocean views in Paje. Features floor-to-ceiling windows, a spacious rooftop deck, and outdoor shower. The epitome of barefoot luxury on Zanzibar's southeast coast.",
+        "price_per_night": 320,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "max_guests": 6,
+        "amenities": [
+            "WiFi",
+            "Air Conditioning",
+            "Kitchen",
+            "Parking",
+            "Generator Backup",
+            "Rooftop Terrace",
+            "Outdoor Shower",
+            "Beach Access"
+        ],
+        "images": [
+            "https:\/\/images.unsplash.com\/photo-1600596542815-ffad4c1539a9?w=800",
+            "https:\/\/images.unsplash.com\/photo-1600573472550-8090b5e0745e?w=800"
+        ],
+        "featured": true,
+        "coordinates": [
+            -6.4333,
+            39.55
+        ]
+    }
+]

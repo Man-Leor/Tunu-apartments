@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: tunu-apartments
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
